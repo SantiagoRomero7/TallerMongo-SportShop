@@ -1,0 +1,13 @@
+[
+    { "nombre": "Balón de Fútbol Profesional", "descripcion": "Balón resistente para todo tipo de clima", "marca": "Nike", "categoria": "Balones", "precio": 120000 },
+    { "nombre": "Zapatillas Running 42", "descripcion": "Zapatillas ligeras y transpirables", "marca": "Adidas", "categoria": "Calzado", "precio": 250000 },
+    { "nombre": "Guantes de Boxeo", "descripcion": "Guantes acolchados para entrenamiento", "marca": "Everlast", "categoria": "Guantes", "precio": 80000 },
+    { "nombre": "Proteína Whey", "descripcion": "Suplemento proteico para deportistas", "marca": "GNC", "categoria": "Suplementos", "precio": 150000 },
+    { "nombre": "Camiseta de Ciclismo", "descripcion": "Camiseta transpirable y ligera", "marca": "Specialized", "categoria": "Ropa Deportiva", "precio": 90000 },
+    { "nombre": "Rodilleras Profesionales", "descripcion": "Rodilleras resistentes para entrenamiento", "marca": "Reebok", "categoria": "Protecciones", "precio": 60000 },
+    { "nombre": "Balón de Baloncesto", "descripcion": "Balón de goma duradero", "marca": "Spalding", "categoria": "Balones", "precio": 110000 },
+    { "nombre": "Short de Natación", "descripcion": "Short resistente al cloro", "marca": "Speedo", "categoria": "Ropa Deportiva", "precio": 70000 },
+    { "nombre": "Cuerda para Saltar", "descripcion": "Cuerda ajustable con mangos de goma", "marca": "Everlast", "categoria": "Accesorios", "precio": 40000 },
+    { "nombre": "Tobilleras", "descripcion": "Tobilleras elásticas de compresión", "marca": "Nike", "categoria": "Protecciones", "precio": 30000 }
+  ]
+  
