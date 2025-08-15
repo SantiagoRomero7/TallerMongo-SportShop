@@ -1,0 +1,13 @@
+[
+    { "nombre": "Juan", "apellido": "Perez", "correo": "juanperez@gmail.com", "telefono": "3001234567", "ciudad": "Bucaramanga" },
+    { "nombre": "Andres", "apellido": "Lopez", "correo": "andreslopez@hotmail.com", "telefono": "3019876543", "ciudad": "Medellin" },
+    { "nombre": "Camila", "apellido": "Gomez", "correo": "camila.gomez@gmail.com", "telefono": "3205558888", "ciudad": "Bogota" },
+    { "nombre": "Maria", "apellido": "Martinez", "correo": "maria.martinez@yahoo.com", "telefono": "3156547890", "ciudad": "Cali" },
+    { "nombre": "Pedro", "apellido": "Suarez", "correo": "pedro_suarez@gmail.com", "telefono": "3221112233", "ciudad": "Barranquilla" },
+    { "nombre": "Andrea", "apellido": "Fernandez", "correo": "andrea.fernandez@hotmail.com", "telefono": "3009998888", "ciudad": "Bucaramanga" },
+    { "nombre": "Luis", "apellido": "Ramirez", "correo": "luisramirez@gmail.com", "telefono": "3044445555", "ciudad": "Cartagena" },
+    { "nombre": "Catalina", "apellido": "Mejia", "correo": "catalinamejia@gmail.com", "telefono": "3103332222", "ciudad": "Medellin" },
+    { "nombre": "Sofia", "apellido": "Mendez", "correo": "sofia.mendez@hotmail.com", "telefono": "3137776666", "ciudad": "Bogota" },
+    { "nombre": "Anderson", "apellido": "Vargas", "correo": "andersonvargas@gmail.com", "telefono": "3004567890", "ciudad": "Cucuta" }
+  ]
+  
