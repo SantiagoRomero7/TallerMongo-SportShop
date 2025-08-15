@@ -1,0 +1,13 @@
+[
+    { "codigo": "DESC2025", "descripcion": "Descuento del 20% en toda la tienda", "categoriaAplicable": "Todos", "fechaVencimiento": "2025-12-31" },
+    { "codigo": "ENVIOFREE", "descripcion": "Promoción de envío gratis en pedidos superiores a $100.000", "categoriaAplicable": "Todos", "fechaVencimiento": "2025-09-30" },
+    { "codigo": "ROPA10", "descripcion": "10% de descuento en ropa deportiva", "categoriaAplicable": "Ropa Deportiva", "fechaVencimiento": "2025-10-15" },
+    { "codigo": "BALONES15", "descripcion": "15% de descuento en balones", "categoriaAplicable": "Balones", "fechaVencimiento": "2025-11-01" },
+    { "codigo": "GYM25", "descripcion": "25% de descuento en accesorios de gimnasio", "categoriaAplicable": "Accesorios", "fechaVencimiento": "2025-09-15" },
+    { "codigo": "SHOES5", "descripcion": "5% de descuento en calzado", "categoriaAplicable": "Calzado", "fechaVencimiento": "2025-12-31" },
+    { "codigo": "PROTEINA20", "descripcion": "20% en suplementos de proteína", "categoriaAplicable": "Suplementos", "fechaVencimiento": "2025-08-30" },
+    { "codigo": "BOX15", "descripcion": "15% de descuento en guantes de boxeo", "categoriaAplicable": "Guantes", "fechaVencimiento": "2025-09-20" },
+    { "codigo": "RUNNING10", "descripcion": "10% de descuento en zapatillas de running", "categoriaAplicable": "Calzado", "fechaVencimiento": "2025-12-15" },
+    { "codigo": "ROPA20", "descripcion": "20% en ropa deportiva seleccionada", "categoriaAplicable": "Ropa Deportiva", "fechaVencimiento": "2025-11-30" }
+  ]
+  
