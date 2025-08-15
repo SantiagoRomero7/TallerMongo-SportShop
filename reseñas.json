@@ -1,0 +1,13 @@
+[
+    { "usuario": "Juan Perez", "producto": "Balón de Fútbol Profesional", "comentario": "Excelente calidad, muy resistente", "valoracionTexto": "5 estrellas" },
+    { "usuario": "Andres Lopez", "producto": "Zapatillas Running 42", "comentario": "Muy cómodas para correr largas distancias", "valoracionTexto": "5 estrellas" },
+    { "usuario": "Camila Gomez", "producto": "Guantes de Boxeo", "comentario": "Buenos pero un poco duros al inicio", "valoracionTexto": "4 estrellas" },
+    { "usuario": "Maria Martinez", "producto": "Proteína Whey", "comentario": "Excelente sabor y disolución", "valoracionTexto": "5 estrellas" },
+    { "usuario": "Pedro Suarez", "producto": "Camiseta de Ciclismo", "comentario": "Cómoda pero talla un poco pequeña", "valoracionTexto": "4 estrellas" },
+    { "usuario": "Andrea Fernandez", "producto": "Rodilleras Profesionales", "comentario": "Protegen bien pero se calientan", "valoracionTexto": "3 estrellas" },
+    { "usuario": "Luis Ramirez", "producto": "Balón de Baloncesto", "comentario": "Excelente agarre", "valoracionTexto": "5 estrellas" },
+    { "usuario": "Catalina Mejia", "producto": "Short de Natación", "comentario": "Secado rápido y cómodo", "valoracionTexto": "5 estrellas" },
+    { "usuario": "Sofia Mendez", "producto": "Cuerda para Saltar", "comentario": "Buena pero el mango se afloja", "valoracionTexto": "3 estrellas" },
+    { "usuario": "Anderson Vargas", "producto": "Tobilleras", "comentario": "Buen soporte, volveré a comprar", "valoracionTexto": "4 estrellas" }
+  ]
+  
