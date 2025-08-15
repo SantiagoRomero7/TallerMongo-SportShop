@@ -1,0 +1,13 @@
+[
+    { "idPedido": "ORD-2025-001", "usuario": "Juan Perez", "metodoPago": "tarjeta credito", "estado": "Enviado", "direccion": "Calle 10 #12-34", "notas": "Entrega urgente" },
+    { "idPedido": "ORD-2025-002", "usuario": "Andres Lopez", "metodoPago": "efectivo", "estado": "Pendiente", "direccion": "Carrera 8 #20-15", "notas": "" },
+    { "idPedido": "ORD-2025-003", "usuario": "Camila Gomez", "metodoPago": "tarjeta debito", "estado": "Entregado", "direccion": "Avenida 5 #45-23", "notas": "" },
+    { "idPedido": "ORD-2025-004", "usuario": "Maria Martinez", "metodoPago": "tarjeta credito", "estado": "Cancelado", "direccion": "Calle 33 #15-45", "notas": "Cliente solicitó cancelación" },
+    { "idPedido": "ORD-2025-005", "usuario": "Pedro Suarez", "metodoPago": "transferencia", "estado": "Enviado", "direccion": "Calle 50 #20-19", "notas": "" },
+    { "idPedido": "ORD-2025-006", "usuario": "Andrea Fernandez", "metodoPago": "tarjeta credito", "estado": "Pendiente", "direccion": "Carrera 15 #8-60", "notas": "Entrega urgente" },
+    { "idPedido": "ORD-2025-007", "usuario": "Luis Ramirez", "metodoPago": "efectivo", "estado": "Enviado", "direccion": "Calle 100 #50-10", "notas": "" },
+    { "idPedido": "ORD-2025-008", "usuario": "Catalina Mejia", "metodoPago": "tarjeta credito", "estado": "Entregado", "direccion": "Carrera 7 #12-80", "notas": "" },
+    { "idPedido": "ORD-2025-009", "usuario": "Sofia Mendez", "metodoPago": "transferencia", "estado": "Enviado", "direccion": "Avenida 9 #23-19", "notas": "Paquete frágil" },
+    { "idPedido": "ORD-2025-010", "usuario": "Anderson Vargas", "metodoPago": "tarjeta debito", "estado": "Pendiente", "direccion": "Calle 14 #22-90", "notas": "" }
+  ]
+  
